@@ -1,4 +1,6 @@
 #!/bin/bash
+pkg install git && pkg install python 
+clear
 
 green='\e[1;32m'
 cyan='\e[1;36m'
